@@ -11,7 +11,7 @@ const ContactSection = () => (
             />
             {/* Bloc texte + bouton à droite */}
             <div className="flex-1 max-w-xl flex flex-col items-center md:items-start">
-                <h2 className="text-3xl font-bold text-green-700 mb-4">Contactez-moi</h2>
+                <h2 className="text-3xl font-bold text-green-200 mb-4">Contactez-moi</h2>
                 <p className="text-white text-lg mb-6 text-center md:text-left">
                     Une demande particulière ou une question sur un objet ?<br />
                     N'hésitez pas à me contacter !

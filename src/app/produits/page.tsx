@@ -9,14 +9,14 @@ export default function Produits() {
     <div className="min-h-screen w-full bg-green-800 flex flex-col items-center ">
       <Header />
       <section className="w-full max-w-7xl bg-[#7c6a58] py-16 flex flex-col items-center ">
-        <h2 className="text-3xl text-green-700 font-bold text-center mb-8">
+        <h2 className="text-3xl text-green-200 font-bold text-center mb-8">
           Bienvenue sur la boutique en ligne <br /> d'Autour de l'atelier du bois
         </h2>
         <p className="text-center text-xl mb-8 leading-relaxed">
           Artisan tourneur sur bois et créateur d'objets personnalisés, je vous invite à découvrir ici toutes mes réalisations faites main.<br /><br />
           Chaque pièce est unique, née de ma créativité et de mon imagination.<br /><br />
-          <span className="font-semibold text-green-700">Tous les articles sont vendus hors taxe</span> (art. 293 B du CGI).<br /><br />
-          <span className="font-semibold text-green-700">Livraison offerte</span> dans un rayon de 15&nbsp;km autour de l'atelier.<br />
+          <span className="font-semibold text-green-200">Tous les articles sont vendus hors taxe</span> (art. 293 B du CGI).<br /><br />
+          <span className="font-semibold text-green-200">Livraison offerte</span> dans un rayon de 15&nbsp;km autour de l'atelier.<br />
           Pour en profiter, contactez-moi afin de convenir ensemble d'une date et d'une heure.<br /><br />
           Vous souhaitez un objet en bois sur-mesure ? <span className="font-semibold">N'hésitez pas à me contacter !</span>
         </p>

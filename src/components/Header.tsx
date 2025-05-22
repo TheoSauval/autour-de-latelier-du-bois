@@ -23,7 +23,7 @@ const Header = () => (
         <nav className="absolute bottom-24 left-1/2 -translate-x-1/2 flex flex-row items-center gap-8 bg-white/70 rounded-full px-8 py-2 shadow z-10 backdrop-blur-md">
             <a href="/" className="text-green-900 text-lg font-normal hover:underline hover:underline-offset-4 transition whitespace-nowrap">Accueil</a>
             <a href="/produits" className="text-green-900 text-lg font-normal hover:underline hover:underline-offset-4 transition whitespace-nowrap">Produits</a>
-            <a href="#" className="text-green-900 text-lg font-normal hover:underline hover:underline-offset-4 transition whitespace-nowrap">Mes créations</a>
+            <a href="/mescreation" className="text-green-900 text-lg font-normal hover:underline hover:underline-offset-4 transition whitespace-nowrap">Mes créations</a>
             <a href="/apropos" className="text-green-900 text-lg font-normal hover:underline hover:underline-offset-4 transition whitespace-nowrap">À propos de l'atelier</a>
             <a href="/contact" className="text-green-900 text-lg font-normal hover:underline hover:underline-offset-4 transition whitespace-nowrap">Contact</a>
         </nav>

@@ -14,7 +14,7 @@ export default function Home() {
       {/* Section Mon atelier */}
       <section className="w-full max-w-7xl bg-[#7c6a58] py-16 flex flex-col items-center ">
         <h2 className="text-3xl text-black font-bold text-center mb-8">
-          Mon <span className="text-green-700">atelier</span>
+          Mon <span className="text-green-200">atelier</span>
         </h2>
         <div className="mb-8">
           <Typewriter />

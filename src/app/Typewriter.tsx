@@ -5,7 +5,7 @@ const textes = [
     "Réparation de meubles (si possible)",
     "Sciage jusqu'à 24cm de long",
     "Rabotage et dégauchissage jusqu'à 12cm",
-    "Tournage sur boi",
+    "Tournage sur bois",
     "Gravure fractale (Fractal de lichtenberg)",
     "Gravure sur bois",
 ];
@@ -37,7 +37,7 @@ export default function Typewriter() {
     }, [displayed, isDeleting, textIndex]);
 
     return (
-        <span className="text-4xl font-bold text-green-700 font-mono">
+        <span className="text-4xl font-bold text-green-200 font-mono">
             {displayed}
             <span className="animate-pulse text-black">|</span>
         </span>
